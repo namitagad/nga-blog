@@ -2,11 +2,11 @@ layout: post
 title: Welcome to Blogging in Brave New World
 subtitle: ' "Hello World, Hello Blog"'
 description: >
-  We've put together a little post to introduce you to the Markdown editor and get you started. 
-  Writing in Markdown is really easy. You can make links, unordered/order list.
-  including images is a breeze. You can paste image in Admin edit.
-  Front-Metter edit has to be done by file editing.
-  Quoting people is easy too. What you are waiting for. Jump in and write great article.
+  We've put together a little post to introduce you to the Markdown editor and
+  get you started.  Writing in Markdown is really easy. You can make links,
+  unordered/order list. including images is a breeze. You can paste image in
+  Admin edit. Front-Metter edit has to be done by file editing. Quoting people
+  is easy too. What you are waiting for. Jump in and write great article.
 author: Namita Gad
 header-img: post-bg-2015.jpg
 tags:
@@ -16,7 +16,7 @@ tags:
 categories: []
 date: 2017-06-04 20:48:00
 ---
-You're live! Nice. We've put together a little post to introduce you to the Markdown editor and get you started. You can manage your content by signing in to the admin area at [Admin Panel](/blog/admin/). When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!
+You're live! Nice. We've put together a little post to introduce you to the Markdown editor and get you started. You can manage your content by signing in to the admin area at [Admin Panel](//www.namitagad.com/blog/admin) and [Preview](//www.namitagad.com/blog/preview). When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!
 
 ## Getting Started
 

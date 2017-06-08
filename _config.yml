@@ -38,7 +38,7 @@ linkedin_username: namita-gad-79b19a132
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 # Disqus settings
-# disqus_username: hexo-theme-huxblog
+disqus_username: namita-gad
 
 # Duoshuo settings
 # duoshuo_username: kaijun
@@ -146,9 +146,7 @@ markdown:
 
 # hexo-admin authentification
 admin:
-  username: sammy
-  password_hash: $2a$10$isP3KkzzaHoAdBrPbJLUPumKoINxbh2FheGb7I5fjDn84tarAE64i
-  secret: salina kyle the cat burgler is like nami
+  deployCommand: ./deploy
 
 # ludoviclefevre/hexo-generator-seo-friendly-sitemap
 sitemap:
