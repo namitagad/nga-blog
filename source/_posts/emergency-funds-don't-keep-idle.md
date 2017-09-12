@@ -4,7 +4,7 @@ tags: []
 categories: []
 date: 2017-09-12 07:13:00
 ---
-**Emergency Funds: Don’t keep idle!**
+<strong>Emergency Funds: Don’t keep idle!</strong>
 
 We always park a certain sum of money in our savings account as per our need, capacity and judgment for emergencies and contingencies; but most of the times, sadly, more than requisite funds are sleeping in our savings bank accounts. This may be due to lack of time or knowledge to focus on available financial opportunities. We also come across situations when arranging money is of extreme importance and we are not at all prepared for it; such as medical emergencies, a family wedding, a friend in need etc. We do have the money but not in liquid form i.e. it cannot be availed or arranged at the required time; it takes nearly a week to encash. Hence, we rather prefer the funds to stay idle in our savings account for such uncertain occasions. A savings account in India fetches an interest rate of nearly 4%, which is much below inflation rate. But we do not think much into it as we care less about earnings when planning for a contingency. What if we can achieve both, higher returns and quick liquidity by exercising financial prudence? Let us see how we can achieve this.
 
@@ -18,49 +18,25 @@ I.  Let’s assume you have maintained a balance of Rs.5Lacs in your bank accoun
 
 <tr style="height: 35px;">
 
-<td style="height: 35px;" colspan="3" width="479">
-
-**_Calculation of Interest Income on Savings Bank Account for the year_**
-
-</td>
+<td style="height: 35px;" colspan="3" width="479"><strong>Calculation of Interest Income on Savings Bank Account for the year</strong></td>
 
 </tr>
 
 <tr style="height: 34px;">
 
-<td style="height: 34px;" width="169">
+<td style="height: 34px;" width="169">Account balance for 12months</td>
 
-Account balance for 12months
+<td style="height: 34px;" width="75">Rs.500,000</td>
 
-</td>
-
-<td style="height: 34px;" width="75">
-
-Rs.500,000
-
-</td>
-
-<td style="height: 82px;" rowspan="2" width="235">
-
-Interest earned on maintaining a balance of Rs.500,000 in your savings account for emergencies
-
-</td>
+<td style="height: 82px;" rowspan="2" width="235">Interest earned on maintaining a balance of Rs.500,000 in your savings account for emergencies</td>
 
 </tr>
 
 <tr style="height: 48px;">
 
-<td style="height: 48px;" width="169">
+<td style="height: 48px;" width="169"><strong>Interest for 12 months (@ 4% p.a)</strong></td>
 
-**Interest for 12 months (@ 4% p.a)**
-
-</td>
-
-<td style="height: 48px;" width="75">
-
-**Rs.20,000**
-
-</td>
+<td style="height: 48px;" width="75"><strong>Rs.20,000</strong></td>
 
 </tr>
 
@@ -76,97 +52,49 @@ II.  Let’s suppose a friend is in urgent need of Rs.250,000 for meeting medica
 
 <tr>
 
-<td colspan="3" width="479">
-
-**_Calculation of Interest Income on Savings Bank Account for the year when money lent to friend_**
-
-</td>
+<td colspan="3" width="479"><strong>Calculation of Interest Income on Savings Bank Account for the year when money lent to friend</strong></td>
 
 </tr>
 
 <tr>
 
-<td width="169">
+<td width="169">Account balance for 9 months</td>
 
-Account balance for 9 months
+<td width="75">Rs.500,000</td>
 
-</td>
-
-<td width="75">
-
-Rs.500,000
-
-</td>
-
-<td rowspan="5" width="235">
-
-Interest earned when part of your savings is used to pay for a medical emergency of a friend
-
-</td>
+<td rowspan="5" width="235">Interest earned when part of your savings is used to pay for a medical emergency of a friend</td>
 
 </tr>
 
 <tr>
 
-<td width="169">
+<td width="169">Interest for 12 months (@ 4% p.a)</td>
 
-Interest for 12 months (@ 4% p.a)
-
-</td>
-
-<td width="75">
-
-Rs.15,000
-
-</td>
+<td width="75">Rs.15,000</td>
 
 </tr>
 
 <tr>
 
-<td width="169">
+<td width="169">Account balance for 3 months</td>
 
-Account balance for 3 months
-
-</td>
-
-<td width="75">
-
-Rs.250,000
-
-</td>
+<td width="75">Rs.250,000</td>
 
 </tr>
 
 <tr>
 
-<td width="169">
+<td width="169">Interest for 3 months (@ 4% p.a)</td>
 
-Interest for 3 months (@ 4% p.a)
-
-</td>
-
-<td width="75">
-
-Rs.2,500
-
-</td>
+<td width="75">Rs.2,500</td>
 
 </tr>
 
 <tr>
 
-<td width="169">
+<td width="169"><strong>Net Interest Income</strong></td>
 
-**Net Interest Income**
-
-</td>
-
-<td width="75">
-
-**Rs.17,500**
-
-</td>
+<td width="75"><strong>Rs.17,500</strong></td>
 
 </tr>
 
@@ -182,81 +110,41 @@ III.  Now, you can exercise financial prudence and achieve the same with the hel
 
 <tr>
 
-<td colspan="3" width="473">
-
-**_Amount of Asset (Fixed Deposit) and Liability (Overdraft Account)_**
-
-</td>
+<td colspan="3" width="473"><strong>Amount of Asset (Fixed Deposit) and Liability (Overdraft Account)</strong></td>
 
 </tr>
 
 <tr>
 
-<td width="190">
+<td width="190">Fixed Deposit</td>
 
-Fixed Deposit
+<td width="77">Rs.500,000</td>
 
-</td>
-
-<td width="77">
-
-Rs.500,000
-
-</td>
-
-<td rowspan="4" width="207">
-
-Maintaining the same amount in a Fixed Deposit gives a similar effect as overdraft limit is 90% of the FD amount
-
-</td>
+<td rowspan="4" width="207">Maintaining the same amount in a Fixed Deposit gives a similar effect as overdraft limit is 90% of the FD amount</td>
 
 </tr>
 
 <tr>
 
-<td width="190">
+<td width="190">Fixed Deposit Interest Rate</td>
 
-Fixed Deposit Interest Rate
-
-</td>
-
-<td width="77">
-
-9%
-
-</td>
+<td width="77">9%</td>
 
 </tr>
 
 <tr>
 
-<td width="190">
+<td width="190">Overdraft Limit (90% of FD Amount)</td>
 
-Overdraft Limit (90% of FD Amount)
-
-</td>
-
-<td width="77">
-
-Rs.450,000
-
-</td>
+<td width="77">Rs.450,000</td>
 
 </tr>
 
 <tr>
 
-<td width="190">
+<td width="190">OD Interest Rate (FD Rate plus 1%)</td>
 
-OD Interest Rate (FD Rate plus 1%)
-
-</td>
-
-<td width="77">
-
-10%
-
-</td>
+<td width="77">10%</td>
 
 </tr>
 
@@ -270,145 +158,73 @@ OD Interest Rate (FD Rate plus 1%)
 
 <tr>
 
-<td colspan="3" width="473">
-
-**_Calculation of Income (Interest on FD) and Expense (Interest on Overdraft Account) for the year_**
-
-</td>
+<td colspan="3" width="473"><strong>Calculation of Income (Interest on FD) and Expense (Interest on Overdraft Account) for the year</strong></td>
 
 </tr>
 
 <tr>
 
-<td width="199">
+<td width="199">Fixed Deposit</td>
 
-Fixed Deposit
+<td width="68">Rs.500,000</td>
 
-</td>
-
-<td width="68">
-
-Rs.500,000
-
-</td>
-
-<td rowspan="8" width="207">
-
-Lending the amount of Rs.250000 to the friend by using the overdraft facility through a fixed deposit covers the emergency and gives us good value for the money earned
-
-</td>
+<td rowspan="8" width="207">Lending the amount of Rs.250000 to the friend by using the overdraft facility through a fixed deposit covers the emergency and gives us good value for the money earned</td>
 
 </tr>
 
 <tr>
 
-<td width="199">
+<td width="199">Fixed Deposit Interest Rate</td>
 
-Fixed Deposit Interest Rate
-
-</td>
-
-<td width="68">
-
-9%
-
-</td>
+<td width="68">9%</td>
 
 </tr>
 
 <tr>
 
-<td width="199">
+<td width="199">Interest Income for 12 Months</td>
 
-Interest Income for 12 Months
-
-</td>
-
-<td width="68">
-
-Rs.45,000
-
-</td>
+<td width="68">Rs.45,000</td>
 
 </tr>
 
 <tr>
 
-<td width="199">
+<td width="199">Overdraft Limit (90% of FD Amount)</td>
 
-Overdraft Limit (90% of FD Amount)
-
-</td>
-
-<td width="68">
-
-Rs.450,000
-
-</td>
+<td width="68">Rs.450,000</td>
 
 </tr>
 
 <tr>
 
-<td width="199">
+<td width="199">Overdraft utilized for 3 Months for friend</td>
 
-Overdraft utilized for 3 Months for friend
-
-</td>
-
-<td width="68">
-
-Rs.250,000
-
-</td>
+<td width="68">Rs.250,000</td>
 
 </tr>
 
 <tr>
 
-<td width="199">
+<td width="199">OD Interest Rate (FD Rate plus 1%)</td>
 
-OD Interest Rate (FD Rate plus 1%)
-
-</td>
-
-<td width="68">
-
-10%
-
-</td>
+<td width="68">10%</td>
 
 </tr>
 
 <tr>
 
-<td width="199">
+<td width="199">Interest Expense for 3 Months</td>
 
-Interest Expense for 3 Months
-
-</td>
-
-<td width="68">
-
-Rs.6,250
-
-</td>
+<td width="68">Rs.6,250</td>
 
 </tr>
 
 <tr>
 
-<td width="199">
+<td width="199"><strong>Net Interest Income</strong></td>
 
-**Net Interest Income**
-
-</td>
-
-<td width="68">
-
-**Rs.38,750**
-
-</td>
+<td width="68"><strong>Rs.38,750</strong></td>
 
 </tr>
 
