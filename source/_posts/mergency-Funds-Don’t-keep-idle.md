@@ -2,7 +2,7 @@ title: 'Emergency Funds: Don’t keep idle!'
 author: Namita Gad
 tags: []
 categories: []
-date: 2017-09-11 23:43:00
+date: 2017-09-12 07:13:00
 ---
 **Emergency Funds: Don’t keep idle!**
 
@@ -10,7 +10,7 @@ We always park a certain sum of money in our savings account as per our need, ca
 
 Have you heard about an overdraft facility? It is like availing a loan against some security and the most commonly and easily available overdraft without much paperwork is against fixed deposits. You may call it ‘Loan against Fixed Deposit’ as the fixed deposit receipt is required to be submitted to the bank as a security for this overdraft (OD) facility. Let’s try to understand this with the below numbers:
 
-I.  Let’s assume you have maintained a balance of Rs.5 lacs in your bank account for contingencies. Below table gives the interest you will earn out of it for the next 12 months:
+I.  Let’s assume you have maintained a balance of Rs.5Lacs in your bank account for contingencies. Below table gives the interest you will earn out of it for the next 12months:
 
 <table>
 
@@ -30,7 +30,7 @@ I.  Let’s assume you have maintained a balance of Rs.5 lacs in your bank accou
 
 <td style="height: 34px;" width="169">
 
-Account balance for 12 months
+Account balance for 12months
 
 </td>
 
@@ -42,7 +42,7 @@ Rs.500,000
 
 <td style="height: 82px;" rowspan="2" width="235">
 
-Interest earned on maintaining a balance of Rs.5 lacs in your savings account for emergencies
+Interest earned on maintaining a balance of Rs.500,000 in your savings account for emergencies
 
 </td>
 
@@ -68,7 +68,7 @@ Interest earned on maintaining a balance of Rs.5 lacs in your savings account fo
 
 </table>
 
-II. 	Let’s suppose a friend is in urgent need of Rs.250,000 for meeting medical expenses of his family member. He commits to return this amount to you in three months.
+II.  Let’s suppose a friend is in urgent need of Rs.250,000 for meeting medical expenses of his family member. He commits to return this amount to you in three months.
 
 <table>
 
@@ -294,7 +294,7 @@ Rs.500,000
 
 <td rowspan="8" width="207">
 
-Lending the amount of Rs.250,000 to the friend by using the overdraft facility through a fixed deposit covers the emergency and gives us good value for the money earned
+Lending the amount of Rs.250000 to the friend by using the overdraft facility through a fixed deposit covers the emergency and gives us good value for the money earned
 
 </td>
 
