@@ -1,6 +1,8 @@
 options:
   spellcheck: true
   askImageFilename: true
+  lineNumbers: true
 editor:
   inputStyle: contenteditable
   spellcheck: true
+  lineNumbers: true
