@@ -15,8 +15,8 @@ Gifts are taxable under any of the following three categories as per the Income 
 3.	Movable Property: Shares, mutual funds, jewelry, gold bars, art, sculptures, etc.
 
 **Exempted Gifts**:
-Gifts are not always taxed. One does enjoy tax exemption on certain gifts such as:
-1.	All money gifts received in a year not exceeding Rs. 50,000
+Gifts are not always taxed. One does enjoy tax exemption on certain gifts such as:  
+1.	All money gifts received in a year not exceeding Rs.50,000
 2.	Gift received from a relative
 3.	Gift received on one’s marriage
 4.	Property received under will or inheritance
@@ -24,7 +24,7 @@ Gifts are not always taxed. One does enjoy tax exemption on certain gifts such a
 
 **Who are your Relatives?**
  "Relative" has a different definition for tax purposes:
-(i) In case of an individual, following persons are considered as individual’s relatives:
+(i) In case of an individual, following persons are considered as individual’s relatives:  
 *	spouse of the individual;
 *	brother or sister of the individual;
 *	brother or sister of the spouse of the individual;
