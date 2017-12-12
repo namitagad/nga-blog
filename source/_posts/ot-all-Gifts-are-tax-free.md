@@ -1,7 +1,8 @@
 title: Not all Gifts are (tax) free!
 author: Namita Gad
-date: 2017-12-05 06:05:06
-tags:
+tags: []
+categories: []
+date: 2017-12-05 00:35:00
 ---
 ### Not all Gifts are (tax) free!
 
@@ -9,7 +10,7 @@ Gifting is an inevitable part of India’s diverse culture of celebrating festiv
 
 **Category of Gifts**: Gifts can be with no consideration or with some consideration. The former means you are not paying anything for the gift received, whereas the latter includes paying something for the gift.
 
-Gifts are taxable under any of the following three categories as per the Income Tax Act, 1961:
+Gifts are taxable under any of the following three categories as per the Income Tax Act, 1961: 
 1.	Money: Cash, cheques or drafts
 2.	Immovable Property: Land and/or building 
 3.	Movable Property: Shares, mutual funds, jewelry, gold bars, art, sculptures, etc.
