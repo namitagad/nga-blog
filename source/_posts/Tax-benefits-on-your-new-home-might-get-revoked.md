@@ -10,7 +10,7 @@ Buying or constructing a house offers many tax advantages on various points star
 One can avail following tax benefits on certain expenses and payments towards the purchase of a residential house:
 
 |Payments towards|Stamp Duty & Registration Fees|Housing Loan Interest|Housing Loan Principal|
-|---|:---:|:-------:|:---:|:---:|
+|---|:---:|:-------:|:---:|
 |Section|80C|24(b)|80C|
 |Maximum Allowable Amount|Rs.150,000 (incl. other deductions u/s.80C)|Rs.200,000 in case self-occupied, else total amount|Rs.150,000 (incl. other deductions u/s.80C)
 |Conditions|On payment, but subject to holding a property for a specified tenure (mentioned below)|On payment but subject to possession|On repayment but subject to possession and holding a property for a specified tenure (mentioned below)
