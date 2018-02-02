@@ -29,7 +29,7 @@ Tricky? Let’s take an example. You have bought equity shares of A Limited on 0
 |(4)|Lower of (2) and (3)|Rs.150|Rs.200
 |(5)|Higher of (1) and (4)|Rs.180|Rs.200
 |(6)|Deemed Cost of Acquisition is (5)|Rs.180|Rs.200
-|(7)|LTCG (Sale less Deemed Cost of Acquisition)|Rs.80 (Rs.260-Rs.180)|Rs.60 (Rs.260-Rs.100)
+|(7)|LTCG (Sale less Deemed Cost of Acquisition)|Rs.80 (Rs.260-Rs.180)|Rs.60 (Rs.260-Rs.200)
 
 After deriving the amount of LTCG, it comes to paying the taxes. LTCG exceeding Rs.1Lac are taxed at 10%, but what about tax on Rs.1Lac? Let us understand the taxation for an individual below 60 years having following slabs rate.
 
