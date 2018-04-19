@@ -22,7 +22,7 @@ Calculating taxable Long-Term Capital Gains (LTCG) for investments prior to 01 F
 Tricky? Let’s take an example. You have bought equity shares of A Limited on 01.02.2017 for Rs.180 and sale occurs on 01.08.2018 at Rs.260. Here are two scenarios:
 
 |Sr.|Particulars|Scenario 1|Scenario 2|
-|:---:|:------|-----:|-----:|
+|:---:|:------|------:|-----:|
 |(1)|Actual cost of acquisition|Rs.180|Rs.180
 |(2)|Price quoted on exchange on the 31.01.2018|Rs.150|Rs.200
 |(3)|Sale Price|Rs.260|Rs.260
