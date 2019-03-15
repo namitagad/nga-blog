@@ -1,8 +1,8 @@
 title: Complete KYC by 25 April 2019 to retain “Active” status for your Company
-author: Namita Gad
+author: Nandish Trivedi
 tags: []
 categories: []
-date: 2019-03-15 01:13:00
+date: 2019-03-14 19:43:00
 ---
 ##### Complete KYC by 25 April 2019 to retain “Active” status for your Company
 
