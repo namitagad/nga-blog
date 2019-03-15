@@ -1,7 +1,8 @@
 title: 'The Marshmallow Test: Self-control in managing your finances'
 author: Namita Gad
-date: 2018-07-06 05:38:52
-tags:
+tags: []
+categories: []
+date: 2018-07-06 00:08:00
 ---
 #### The Marshmallow Test: Self-control in managing your finances
 
