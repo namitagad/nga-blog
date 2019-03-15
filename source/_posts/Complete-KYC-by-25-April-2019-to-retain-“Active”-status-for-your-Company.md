@@ -18,4 +18,4 @@ Below are the highlights of e-form INC-22A:
 |4.|Attachments with the E-Form INC-22A|<ul><li>Photograph of the registered office address showing the Inside and Outside Building;</li><li>Inside office showing therein at least one director/KMP who is going to digitally sign e-form INC 22A.<ul>|
 |5.|Implications of late /Non-Filing of E-Form INC-22A|<ul><li>Late fees of Rs.10,000/- </li><li>Marking of the status of the Company as “Active – Non-Compliant” in MCA Master Data;</li><li>Filing of following e-forms shall be barred- </li><ul></li><li>SH-7 </li><li>PAS-3 </li><li>DIR-12 (except cessation) </li><li>INC-22 </li><li>INC-28 (for amalgamation /demerger)
 
-Hence, companies should complete the above KYC procedure by 25th April 2019 to avoid heavy late fees and retain active status; so that they can file other forms without further penalty
+Hence, companies should complete the above KYC procedure by 25th April 2019 to avoid heavy late fees and retain active status; so that they can file other forms without further penalty.
