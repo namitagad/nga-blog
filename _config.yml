@@ -22,8 +22,8 @@ permalink_defaults:
 SEOTitle: Namita Gad & Associates | Blog
 header-img: img/home-bg-o.jpg
 email: ca.namitagad@gmail.com
-description: ""
-keyword: ""
+description: "Namita Gad & Associates is making finance easy"
+keyword: "Chartered Accountant, GST, Income-Tax"
 
 # SNS settings
 # RSS: false
@@ -116,18 +116,6 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: huxblog
 
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  # type: git
-  # repo: https://github.com/yogesum/nga-blog
-  # branch: gh-pages
-  type: rsync
-  host: namitagad.com
-  user: nga
-  root: ~/nga/blog
-  args: -avz
-
 markdown:
   render:
     html: true
@@ -143,10 +131,6 @@ markdown:
     - markdown-it-sub
     - markdown-it-sup
   anchors: false
-
-# hexo-admin authentification
-admin:
-  deployCommand: ./deploy
 
 # ludoviclefevre/hexo-generator-seo-friendly-sitemap
 sitemap:
